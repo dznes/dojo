@@ -31,7 +31,7 @@ dojo-types = { path = "../dojo-types", optional = true }
 http = { workspace = true, optional = true }
 ipfs-api-backend-hyper = { git = "https://github.com/ferristseng/rust-ipfs-api", rev = "af2c17f7b19ef5b9898f458d97a90055c3605633", features = [ "with-hyper-rustls" ], optional = true }
 scarb = { workspace = true, optional = true }
-tokio = { version = "1.32.0", features = [ "time" ], default-features = false, optional = true }
+tokio = { version = "1.38.2", features = [ "time" ], default-features = false, optional = true }
 toml.workspace = true
 url = { workspace = true, optional = true }
 
