@@ -110,7 +110,7 @@ assert_matches = "1.5.0"
 async-trait = "0.1.77"
 auto_impl = "1.2.0"
 base64 = "0.21.2"
-bytes = "1.6"
+bytes = "1.11"
 cairo-lang-compiler = { git = "https://github.com/starkware-libs/cairo", rev = "d9984ef58e2f704909e271f2f01327f520ded632" }
 cairo-lang-debug = { git = "https://github.com/starkware-libs/cairo", rev = "d9984ef58e2f704909e271f2f01327f520ded632" }
 cairo-lang-defs = { git = "https://github.com/starkware-libs/cairo", rev = "d9984ef58e2f704909e271f2f01327f520ded632" }
